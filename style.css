@@ -1,0 +1,60 @@
+body{
+    background-color: #fff;
+    height: 2500px;
+    width: 1024px;
+}
+
+#title{
+    z-index: 9;
+    position: absolute;
+    font-size: 75px;
+    top: -50px;
+    right: 1100px;
+    max-width: 10%;
+}
+
+.mountains{
+    z-index: 2;
+    position: absolute;
+    left: 300px;
+    top: 250px;
+    width: 500px;
+    height: auto;
+}
+
+#subText{
+    font-size: 25px;
+    z-index: 2;
+    position: absolute;
+    left: 150px;
+    top: 500px;
+}
+
+#paragraph0{
+    font-weight: bold;
+    font-size: 50px;
+    z-index: 2;
+    position: absolute;
+    left: 950px;
+    top: 600px;
+}
+
+#title0{
+    font-weight: bold;
+    font-size: 50px;
+    z-index: 2;
+    position: absolute;
+    left: 950px;
+    top: 420px;
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+}
+
+#date{
+    font-size: 55px;
+    z-index: 2;
+    position: absolute;
+    left: 150px;
+    top: 100px;
+    font-style: italic;
+}
